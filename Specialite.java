@@ -26,7 +26,7 @@ private int test;
 
 
 	public List<FicheSejour> getListeFicheSejour() {
-		return listeFicheSejour;
+		return listeFicheAbsence;
 	}
 
 
